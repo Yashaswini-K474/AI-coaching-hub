@@ -1,4 +1,4 @@
-This repository contains the source code for the AI Coaching Hub, a full-stack web application designed to provide personalized lecture and interview coaching using a Generative AI backend.
+This repository contains the source code for the AI Coaching Hub, a full-stack web application designed to provide personalized lecture and interview coaching, etc using a Generative AI backend.
 
 Key Features & Technical Highlights
 Full-Stack Architecture: Built on the T3 Stack principles using Next.js (Frontend/API routes) and Convex (Serverless Backend/Database).
