@@ -11,8 +11,7 @@ Users are placed of a 'Free' or 'Pro' plan.
 
 Convex Backend: Uses Convex for data storage (e.g., user credits, plan details) and to securely execute serverless functions (e.g., calling the AI Model API and handling Clerk Webhooks).
 
-
-First, run the development server:
+Run the development server:
 
 ```bash
 npx convex dev
