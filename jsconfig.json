@@ -1,0 +1,22 @@
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@/*": ["./*"]
+//     }
+//   }
+// }
+// jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Add this line if it's missing
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+      // CRITICAL FIX: Add the alias to the convex folder
+      "@/convex/*": [
+        "./convex/*"
+      ]
+    }
+  }
+}
